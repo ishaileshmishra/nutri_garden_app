@@ -9,6 +9,7 @@ void main() {
 }
 
 class NutriGardenApp extends StatelessWidget {
+  // something here
   const NutriGardenApp({super.key});
   @override
   Widget build(BuildContext context) {
